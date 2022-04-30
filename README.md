@@ -1,0 +1,3 @@
+# Personal Settings
+
+ZSH
