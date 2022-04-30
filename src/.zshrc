@@ -7,3 +7,9 @@ alias gc="git commit -m"
 alias gac="ga && gc"
 alias gs="git status"
 alias gp="git push"
+
+function gacp() {
+    ga
+    gc "$1"
+    gp
+}
