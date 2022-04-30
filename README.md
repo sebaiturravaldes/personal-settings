@@ -1,3 +1,7 @@
 # Personal Settings
 
-ZSH
+## Run
+Run next command
+```bash
+sh start.sh
+```
